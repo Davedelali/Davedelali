@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Aganya</h1>
-<h3 align="center">A passionate full stack developer from Ghana</h3>
+<h3 align="center">I'm an automation and power electrnics engineer. I am passionate about building hardware and currenlty exploring power electronics , chip design , instrumantation and control </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davedelali&label=Profile%20views&color=0e75b6&style=flat" alt="davedelali" /> </p>
 
